@@ -5,7 +5,7 @@ import os
 # in add function
 ## check if name is already in the list, then ask if you are sure that you wanna add this dish
 
-ver=0.8
+ver=0.9
 
 cousines_list_ta=[]
 cousines_list_ma=[]
